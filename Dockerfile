@@ -8,4 +8,4 @@ RUN go build -o /bin/hello
 
 FROM scratch
 COPY --from=build /bin/hello /bin/hello
-CMD ["/bin/hello"]
+CMD ["hello"]
