@@ -1,5 +1,4 @@
-# README
+# hello-docker
+This is an educational project which demonstrates how to do a two step build in a Dockerfile with golang.
 
-This is just for the testing. Nothing more to see.
-
-go away.
+not too much.
